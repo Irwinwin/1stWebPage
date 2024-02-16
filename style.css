@@ -1,0 +1,44 @@
+body{
+    background: #CCCCCC;
+}
+
+#image{
+    width: 15%;
+}
+
+h1{
+    text-align: center;
+    background: #a79fe1;
+    border: 10px solid;
+    margin: 20px;
+    padding: 20px;
+}
+p{
+    text-align: center;
+
+}
+
+em strong{
+    color: red;
+}
+
+#subject{
+    font-size: 20px;
+}
+.centerTitle{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align:top;
+    width: 20%;
+    margin-right: 10%;
+    
+}
+.food{
+    font-style: italic;
+}
+#tacos{
+    width: 15%;
+}
