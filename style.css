@@ -37,6 +37,8 @@ ul{
     
 }
 .food{
+    font-size: 20px;
+    width: 60%;
     font-style: italic;
 }
 #tacos{
